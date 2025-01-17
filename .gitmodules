@@ -1,0 +1,9 @@
+[submodule "news-backend"]
+	path = news-backend
+	url = https://github.com/AlirezaDa-jc/news-backend
+[submodule "news-util"]
+	path = news-util
+	url = https://github.com/AlirezaDa-jc/news-util
+[submodule "news-front"]
+	path = news-front
+	url = https://github.com/AlirezaDa-jc/news-front
